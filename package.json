@@ -1,7 +1,7 @@
 {
   "name": "planr-backend",
   "version": "1.0.0",
-  "description": "API documentation for Planr backend",
+  "description": "API documentation for Planr backend at https://github.com/lilyhoratio/planr-backend (WIP - only a fraction of all routes are documented)",
   "main": "index.js",
   "scripts": {
     "test": "cross-env DB_ENV=testing jest --watch --runInBand",
